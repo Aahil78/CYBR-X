@@ -34,7 +34,7 @@ The switches go into the plate, the plate and bottom sandwich the PCB then, and 
 ![image](https://github.com/user-attachments/assets/db4cee9a-e87c-4c10-845e-934f6ff6765e)
 
 # Bill Of Materials
-Here's the BO< for my macropad:
+Here's the BOM for my macropad:
 | Name                               | Quantity |
 |----------------------------------- |----------|
 | Seeed Studio XIAO RP2040           | 1        |
